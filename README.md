@@ -1,7 +1,10 @@
-### Hi there 👋
+## Hi! I'm Sylvain
+I'm a passionate software engineer with a love for learning and a commitment to creating innovative solutions. Explore my repositories to see the exciting projects and contributions that define my journey in the world of coding. 
+
+Let's connect, collaborate, and code together!
 
 <!--
-**sylvain-lec/sylvain-lec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sylvainlecire/sylvainlecire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
