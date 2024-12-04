@@ -1,5 +1,5 @@
 ## Hi! I'm Sylvain
-I'm a passionate software engineer with a love for learning and a commitment to creating innovative solutions. Explore my repositories to see the exciting projects and contributions that define my journey in the world of coding. 
+I'm a passionate software engineer with a love for learning and a commitment to creating innovative solutions.
 
 Let's connect, collaborate, and code together!
 
