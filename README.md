@@ -1,19 +1,11 @@
-## Hi! I'm Sylvain
-I'm a passionate software engineer with a love for learning and a commitment to creating innovative solutions.
+## Hi! I’m Sylvain 👋
+I’m a passionate software engineer who loves learning and building innovative solutions. I work mostly with PHP, JavaScript and MySQL, and cloud tools like AWS and Docker.
 
-Let's connect, collaborate, and code together!
+What I do
+💻 Build scalable backend systems and data pipelines to power real-time market intelligence.
+📈 Continuously improve data ingestion and API performance to support business growth.
+🤝 Collaborate closely with product, data science, and operations teams to deliver impactful features.
 
-<!--
-**sylvainlecire/sylvainlecire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect!
+I’m always open to networking, collaboration, or chatting about tech.
+Reach me on [LinkedIn](https://www.linkedin.com/in/sylvain-lecire/).
